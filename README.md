@@ -6,13 +6,14 @@
 
 Focused on building stable, maintainable, and evolvable desktop and cross-platform application infrastructure, with long-term dedication to auto-update frameworks and engineering excellence.  
 📍 Location: China  
-📝 Blog: https://justerzhu.github.io/
+📝 Blog: https://www.justerzhu.cn/
 
 ---
 
 ## Core Technical Focus
 
-- **.NET / C#**: High-performance business systems and engineering architecture design  
+- **.NET / C#**: High-performance business systems and engineering architecture design
+- **Avalonia**: Cross‑Platform Applications 
 - **.NET MAUI**: Cross-platform client development and UX consistency optimization  
 - **Open Source**: Open-source component design, maintenance, and ecosystem collaboration  
 - **Auto Update Framework**: Application auto-update system engineering (GeneralUpdate)
