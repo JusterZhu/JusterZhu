@@ -10,20 +10,6 @@ Focused on building stable, maintainable, and evolvable desktop and cross-platfo
 
 ---
 
-## Pixel Space
-
-```text
-      .       ✦
-  ✧        .       🚀
-       .-"""-.
-      / .===. \
-      \/ 6 6 \/
-      ( \___/ )   🛰️
- ___ooo__V__ooo___
-```
-
----
-
 ## Core Technical Focus
 
 - **.NET / C#**: High-performance business systems and engineering architecture design
