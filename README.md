@@ -4,33 +4,33 @@
   <strong>Microsoft MVP</strong> · <strong>GeneralUpdate Author</strong> · <strong>.NET Enthusiast</strong>
 </p>
 
-专注于构建稳定、可维护、可演进的桌面与跨平台应用基础设施，持续深耕自动更新框架与工程化实践。  
-📍 地区：China  
-📝 博客：https://justerzhu.github.io/
+Focused on building stable, maintainable, and evolvable desktop and cross-platform application infrastructure, with long-term dedication to auto-update frameworks and engineering excellence.  
+📍 Location: China  
+📝 Blog: https://justerzhu.github.io/
 
 ---
 
-## 核心技术方向
+## Core Technical Focus
 
-- **.NET / C#**：高性能业务系统与工程架构设计  
-- **.NET MAUI**：跨平台客户端开发与体验一致性优化  
-- **Open Source**：开源组件设计、维护与生态协作  
-- **Auto Update Framework**：应用自动更新体系建设（GeneralUpdate）
+- **.NET / C#**: High-performance business systems and engineering architecture design  
+- **.NET MAUI**: Cross-platform client development and UX consistency optimization  
+- **Open Source**: Open-source component design, maintenance, and ecosystem collaboration  
+- **Auto Update Framework**: Application auto-update system engineering (GeneralUpdate)
 
 ---
 
-## 核心项目（GeneralUpdate 系列）
+## Core Projects (GeneralUpdate Series)
 
 - **[GeneralUpdate](https://github.com/JusterZhu/GeneralUpdate)**  
-  新一代 .NET 自动更新框架，关注可靠性、安全性与可扩展性。  
+  A next-generation .NET auto-update framework focused on reliability, security, and scalability.  
 - **[GeneralUpdate.Admin](https://github.com/JusterZhu/GeneralUpdate.Admin)**  
-  面向更新策略与发布管理的后台管理端。  
+  An admin backend for update strategy configuration and release management.  
 - **[GeneralUpdate.PacketTool](https://github.com/JusterZhu/GeneralUpdate.PacketTool)**  
-  更新包制作与发布流程工具链支持。
+  Tooling support for update package creation and release workflows.
 
 ---
 
-## GitHub 统计
+## GitHub Statistics
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JusterZhu&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 技术栈
+## Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-## 社区组织与身份认证
+## Community & Credentials
 
 ![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Open Source Maintainer](https://img.shields.io/badge/Open%20Source-Maintainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-## 社交链接
+## Social Links
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JusterZhu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justerzhu/)
