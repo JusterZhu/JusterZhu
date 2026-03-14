@@ -10,6 +10,20 @@ Focused on building stable, maintainable, and evolvable desktop and cross-platfo
 
 ---
 
+## Pixel Space
+
+```text
+      .       ✦
+  ✧        .       🚀
+       .-"""-.
+      / .===. \
+      \/ 6 6 \/
+      ( \___/ )   🛰️
+ ___ooo__V__ooo___
+```
+
+---
+
 ## Core Technical Focus
 
 - **.NET / C#**: High-performance business systems and engineering architecture design
@@ -48,6 +62,7 @@ Focused on building stable, maintainable, and evolvable desktop and cross-platfo
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-5C2D91?style=for-the-badge&logo=avalonia&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
