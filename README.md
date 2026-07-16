@@ -1,8 +1,10 @@
-# JusterZhu
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="JusterZhu — Open Source Maintainer | Auto Update Framework Developer" width="100%">
+</picture>
 
-<p>
-  <strong>Microsoft MVP</strong> · <strong>GeneralUpdate Author</strong> · <strong>.NET Enthusiast</strong>
-</p>
+# JusterZhu
 
 Focused on building stable, maintainable, and evolvable desktop and cross-platform application infrastructure, with long-term dedication to auto-update frameworks and engineering excellence.  
 📍 Location: China  
@@ -20,14 +22,16 @@ Focused on building stable, maintainable, and evolvable desktop and cross-platfo
 
 ---
 
-## Core Projects (GeneralUpdate Series)
+## Core Projects — [GeneralLibrary](https://github.com/GeneralLibrary)
 
-- **[GeneralUpdate](https://github.com/JusterZhu/GeneralUpdate)**  
-  A next-generation .NET auto-update framework focused on reliability, security, and scalability.  
-- **[GeneralUpdate.Admin](https://github.com/JusterZhu/GeneralUpdate.Admin)**  
-  An admin backend for update strategy configuration and release management.  
-- **[GeneralUpdate.PacketTool](https://github.com/JusterZhu/GeneralUpdate.PacketTool)**  
-  Tooling support for update package creation and release workflows.
+| Project | Description | Stats |
+|---------|-------------|:------|
+| **[GeneralUpdate](https://github.com/GeneralLibrary/GeneralUpdate)** | Unlimited Updates, Boundless Upgrades. A next-generation .NET auto-update framework focused on reliability, security, and scalability. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/GeneralUpdate?style=flat-square&logo=github&label=Stars) ![Forks](https://img.shields.io/github/forks/GeneralLibrary/GeneralUpdate?style=flat-square&logo=github&label=Forks) |
+| **[GeneralUpdate-Samples](https://github.com/GeneralLibrary/GeneralUpdate-Samples)** | Example code for automatic upgrades to help you get started quickly. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/GeneralUpdate-Samples?style=flat-square&logo=github&label=Stars) |
+| **[GeneralUpdate.Tools](https://github.com/GeneralLibrary/GeneralUpdate.Tools)** | Patch package creation tools required for automatic upgrades. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/GeneralUpdate.Tools?style=flat-square&logo=github&label=Stars) |
+| **[GeneralUpdate.Maui](https://github.com/GeneralLibrary/GeneralUpdate.Maui)** | .NET MAUI upgrade application. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/GeneralUpdate.Maui?style=flat-square&logo=github&label=Stars) |
+| **[GeneralUpdate.Avalonia](https://github.com/GeneralLibrary/GeneralUpdate.Avalonia)** | .NET Avalonia upgrade application. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/GeneralUpdate.Avalonia?style=flat-square&logo=github&label=Stars) |
+| **[generalupdate-skill-codegen](https://github.com/GeneralLibrary/generalupdate-skill-codegen)** | Claude Code skill suite — auto-generate GeneralUpdate integration code for any .NET app in under 5 minutes. | ![Stars](https://img.shields.io/github/stars/GeneralLibrary/generalupdate-skill-codegen?style=flat-square&logo=github&label=Stars) |
 
 ---
 
@@ -57,9 +61,10 @@ Focused on building stable, maintainable, and evolvable desktop and cross-platfo
 
 ## Community & Credentials
 
-![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Most%20Valuable%20Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Huawei HCDE](https://img.shields.io/badge/Huawei%20HCDE-Certified%20Developer%20Expert-0E9E8E?style=for-the-badge&logo=huawei&logoColor=white)
+![GeneralUpdate Author](https://img.shields.io/badge/GeneralUpdate-Open%20Source%20Author-EA580C?style=for-the-badge&logo=github&logoColor=white)
 ![Open Source Maintainer](https://img.shields.io/badge/Open%20Source-Maintainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-![GeneralUpdate Author](https://img.shields.io/badge/GeneralUpdate-Author-0969da?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 

@@ -1,0 +1,356 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 480" width="1920" height="480" role="img" aria-labelledby="bTitle bDesc">
+<title id="bTitle">JusterZhu — Open Source Maintainer | Auto Update Framework Developer</title>
+<desc id="bDesc">GitHub profile banner: name on the left, auto-update distribution architecture in the middle, GitHub stats reserved area on the right.</desc>
+<style>
+svg{--bg0:#ffffff;--bg1:#eef5fc;--ink:#1f2732;--ink2:#57606a;--ink3:#8b98a5;--line:#d8e0e8;--accent:#0969da;--neonA:#38bdf8;--neonB:#7c7ff2;--cell:#0969da;--card:#ffffff;--cardBorder:#d8e0e8;--chip:#f0f6fc;--chipBorder:#cfe0f1;--metalA:#f9fbfd;--metalB:#c3ced9;--metalC:#8fa1b3;--metalStroke:#a7b6c4;--hcdeA:#0284c7;--hcdeB:#059669;--orgA:#fb923c;--orgB:#ea580c;--flowBase:#bcd3e8;--dot:#c9dcec;--barBg:#e6eef7;--star:#d4a72c;--eye:#1a7f37}
+text{font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif}
+.t-name{font-size:60px;font-weight:700;fill:var(--ink);letter-spacing:1px}
+.t-sub{font-size:17px;font-weight:500;fill:var(--ink2);letter-spacing:2px}
+.t-label{font-size:12px;font-weight:600;fill:var(--ink3);letter-spacing:2.5px}
+.t-node{font-size:12.5px;font-weight:500;fill:var(--ink3)}
+.t-hub{font-size:15px;font-weight:600;fill:var(--accent)}
+.t-chip{font-size:13px;font-weight:600;fill:var(--accent)}
+.t-cap{font-size:13.5px;font-weight:600;fill:var(--ink2);letter-spacing:3px}
+.t-stat{font-size:13.5px;font-weight:600;fill:var(--ink2)}
+.t-code{font-size:24px;font-weight:700;fill:var(--accent)}
+.t-note{font-size:11.5px;font-weight:500;fill:var(--ink3);letter-spacing:.5px}
+.t-legend{font-size:10px;font-weight:600;fill:var(--ink3);letter-spacing:1px}
+.chip{fill:var(--chip);stroke:var(--chipBorder);stroke-width:1.5}
+.card{fill:var(--card);stroke:var(--cardBorder);stroke-width:1.5}
+.icon{stroke:var(--accent);stroke-width:2.2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.hubicon{stroke:var(--accent);stroke-width:4.5;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.flowbase{stroke:var(--flowBase);stroke-width:1.6;fill:none;opacity:.55}
+.flow{stroke:url(#gNeon);stroke-width:3;fill:none;stroke-linecap:round;stroke-dasharray:1 16}
+.cell{fill:var(--cell)}
+.bar{fill:var(--barBg)}
+.tok{fill:var(--accent)}
+.pulse{stroke:var(--neonA);fill:none}
+.shadow{filter:url(#softShadow)}
+.divider{stroke:var(--line);stroke-width:1}
+.wm{fill:var(--ink2)}
+</style>
+<defs>
+<linearGradient id="gBg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" style="stop-color:var(--bg0)"/><stop offset="1" style="stop-color:var(--bg1)"/>
+</linearGradient>
+<linearGradient id="gNeon" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" style="stop-color:var(--neonA)"/><stop offset="1" style="stop-color:var(--neonB)"/>
+</linearGradient>
+<radialGradient id="gGlow" cx=".5" cy=".5" r=".5">
+<stop offset="0" style="stop-color:var(--neonA)" stop-opacity=".14"/><stop offset="1" style="stop-color:var(--neonA)" stop-opacity="0"/>
+</radialGradient>
+<pattern id="pDots" width="26" height="26" patternUnits="userSpaceOnUse">
+<circle cx="1.5" cy="1.5" r="1.3" style="fill:var(--dot)"/>
+</pattern>
+<filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#0b2740" flood-opacity="0.10"/>
+</filter>
+</defs>
+
+<!-- ============ background ============ -->
+<rect x="0" y="0" width="1920" height="480" fill="url(#gBg)"/>
+<rect x="0" y="0" width="1920" height="480" fill="url(#pDots)" opacity=".5"/>
+<ellipse cx="870" cy="240" rx="340" ry="200" fill="url(#gGlow)"/>
+
+<!-- decorative code-token stream -->
+<g opacity=".15">
+<animate attributeName="opacity" values=".10;.24;.10" dur="7s" repeatCount="indefinite"/>
+<g class="tok">
+<rect x="560" y="68" width="38" height="7" rx="3.5"/><rect x="610" y="68" width="20" height="7" rx="3.5"/><rect x="642" y="68" width="54" height="7" rx="3.5"/><rect x="708" y="68" width="28" height="7" rx="3.5"/><rect x="748" y="68" width="16" height="7" rx="3.5"/><rect x="776" y="68" width="46" height="7" rx="3.5"/><rect x="834" y="68" width="24" height="7" rx="3.5"/><rect x="870" y="68" width="60" height="7" rx="3.5"/><rect x="942" y="68" width="18" height="7" rx="3.5"/><rect x="972" y="68" width="40" height="7" rx="3.5"/><rect x="1024" y="68" width="26" height="7" rx="3.5"/><rect x="1062" y="68" width="14" height="7" rx="3.5"/>
+<rect x="584" y="84" width="26" height="7" rx="3.5"/><rect x="622" y="84" width="48" height="7" rx="3.5"/><rect x="682" y="84" width="18" height="7" rx="3.5"/><rect x="712" y="84" width="36" height="7" rx="3.5"/><rect x="760" y="84" width="22" height="7" rx="3.5"/><rect x="794" y="84" width="52" height="7" rx="3.5"/><rect x="858" y="84" width="16" height="7" rx="3.5"/><rect x="886" y="84" width="34" height="7" rx="3.5"/><rect x="932" y="84" width="50" height="7" rx="3.5"/><rect x="994" y="84" width="20" height="7" rx="3.5"/><rect x="1026" y="84" width="42" height="7" rx="3.5"/>
+</g>
+</g>
+<g opacity=".12">
+<g class="tok">
+<rect x="600" y="406" width="30" height="7" rx="3.5"/><rect x="642" y="406" width="18" height="7" rx="3.5"/><rect x="672" y="406" width="44" height="7" rx="3.5"/><rect x="728" y="406" width="22" height="7" rx="3.5"/><rect x="762" y="406" width="50" height="7" rx="3.5"/><rect x="824" y="406" width="16" height="7" rx="3.5"/><rect x="852" y="406" width="38" height="7" rx="3.5"/><rect x="902" y="406" width="24" height="7" rx="3.5"/><rect x="938" y="406" width="54" height="7" rx="3.5"/><rect x="1004" y="406" width="20" height="7" rx="3.5"/>
+</g>
+</g>
+
+<!-- ============ left: identity ============ -->
+<text class="t-name" x="72" y="228">JusterZhu</text>
+<rect x="76" y="252" width="150" height="5" rx="2.5" fill="url(#gNeon)"/>
+<text class="t-sub" x="74" y="296">.NET &#183; Avalonia &#183; MAUI</text>
+<!-- ============ middle: update distribution architecture ============ -->
+<!-- flow lines (base) -->
+<path class="flowbase" d="M656 168 C 740 168, 770 224, 820 234"/>
+<path class="flowbase" d="M656 312 C 740 312, 770 256, 820 246"/>
+<path class="flowbase" d="M918 230 C 1006 204, 1032 136, 1112 122"/>
+<path class="flowbase" d="M920 240 L 1152 240"/>
+<path class="flowbase" d="M918 250 C 1006 276, 1032 344, 1112 358"/>
+<!-- flow lines (animated neon dots) -->
+<path class="flow" d="M656 168 C 740 168, 770 224, 820 234"><animate attributeName="stroke-dashoffset" from="170" to="0" dur="5s" repeatCount="indefinite"/></path>
+<path class="flow" d="M656 312 C 740 312, 770 256, 820 246"><animate attributeName="stroke-dashoffset" from="170" to="0" dur="5.6s" repeatCount="indefinite"/></path>
+<path class="flow" d="M918 230 C 1006 204, 1032 136, 1112 122"><animate attributeName="stroke-dashoffset" from="170" to="0" dur="5.2s" repeatCount="indefinite"/></path>
+<path class="flow" d="M920 240 L 1152 240"><animate attributeName="stroke-dashoffset" from="170" to="0" dur="4.6s" repeatCount="indefinite"/></path>
+<path class="flow" d="M918 250 C 1006 276, 1032 344, 1112 358"><animate attributeName="stroke-dashoffset" from="170" to="0" dur="5.8s" repeatCount="indefinite"/></path>
+
+<!-- source nodes -->
+<rect class="chip" x="584" y="132" width="72" height="72" rx="16"/>
+<path class="icon" d="M620 149 L639 159 V179 L620 189 L601 179 V159 Z M601 159 L620 169 L639 159 M620 169 V189"/>
+<text class="t-node" x="620" y="226" text-anchor="middle">Packages</text>
+
+<rect class="chip" x="584" y="276" width="72" height="72" rx="16"/>
+<text class="t-code" x="620" y="321" text-anchor="middle">&lt;/&gt;</text>
+<text class="t-node" x="620" y="370" text-anchor="middle">Build</text>
+
+<!-- version chips -->
+<rect class="chip" x="688" y="128" width="66" height="26" rx="13"/>
+<text class="t-chip" x="721" y="145" text-anchor="middle">v2.4.0</text>
+<rect class="chip" x="694" y="320" width="58" height="26" rx="13"/>
+<text class="t-chip" x="723" y="337" text-anchor="middle">diff</text>
+
+<!-- hub -->
+<circle class="pulse" cx="870" cy="240" r="46" stroke-width="2">
+<animate attributeName="r" values="46;62" dur="3s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".5;0" dur="3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="870" cy="240" r="44" style="fill:var(--card)"/>
+<circle cx="870" cy="240" r="44" fill="none" stroke="url(#gNeon)" stroke-width="2.5"/>
+<path class="hubicon" d="M870 218 V246 M858 236 L870 250 L882 236"/>
+<path class="hubicon" d="M852 258 v6 h36 v-6" style="stroke-width:3.5"/>
+<text class="t-hub" x="870" y="322" text-anchor="middle">GeneralUpdate</text>
+
+<!-- client nodes -->
+<rect class="chip" x="1118" y="88" width="64" height="64" rx="14"/>
+<rect class="icon" x="1135" y="104" width="30" height="20" rx="3"/>
+<path class="icon" d="M1150 124 v6 M1142 132 h16"/>
+
+<rect class="chip" x="1158" y="208" width="64" height="64" rx="14"/>
+<rect class="icon" x="1176" y="224" width="28" height="18" rx="2.5"/>
+<path class="icon" d="M1171 245 h38"/>
+<text class="t-node" x="1190" y="298" text-anchor="middle">Clients</text>
+
+<rect class="chip" x="1118" y="328" width="64" height="64" rx="14"/>
+<rect class="icon" x="1141" y="344" width="18" height="30" rx="4"/>
+<circle cx="1150" cy="368.5" r="1.6" style="fill:var(--accent)"/>
+
+<!-- ============ right: github stats reserved area ============ -->
+<g class="shadow">
+<rect class="card" x="1380" y="84" width="472" height="312" rx="16"/>
+</g>
+<text class="t-label" x="1404" y="114">GITHUB STATS</text>
+<g transform="translate(1806,100) scale(1.4)">
+<path class="wm" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+</g>
+<!-- contribution heatmap (generated) -->
+<g class="cell-grid">
+<rect class="cell" x="1404.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1404.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1404.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1404.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1404.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1404.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1404.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1420.4" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1420.4" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1420.4" y="164.8" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1420.4" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1420.4" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1420.4" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1420.4" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1436.8" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1436.8" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1436.8" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1436.8" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1436.8" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1436.8" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1436.8" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1453.2" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1453.2" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1453.2" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1453.2" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1453.2" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1453.2" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1453.2" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1469.6" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1469.6" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1469.6" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1469.6" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1469.6" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1469.6" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1469.6" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1486.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1486.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1486.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1486.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1486.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1486.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1486.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1502.4" y="132.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1502.4" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1502.4" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1502.4" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1502.4" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1502.4" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1502.4" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1518.8" y="132.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1518.8" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1518.8" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1518.8" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1518.8" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1518.8" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1518.8" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1535.2" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1535.2" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1535.2" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1535.2" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1535.2" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1535.2" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1535.2" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1551.6" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1551.6" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1551.6" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1551.6" y="181.2" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1551.6" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1551.6" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1551.6" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1568.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1568.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1568.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1568.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1568.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1568.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1568.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1584.4" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1584.4" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1584.4" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1584.4" y="181.2" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1584.4" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1584.4" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1584.4" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1600.8" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1600.8" y="148.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1600.8" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1600.8" y="181.2" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1600.8" y="197.6" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1600.8" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1600.8" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1617.2" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1617.2" y="148.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1617.2" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1617.2" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1617.2" y="197.6" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1617.2" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1617.2" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1633.6" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1633.6" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1633.6" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1633.6" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1633.6" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1633.6" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1633.6" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1650.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1650.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1650.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1650.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1650.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1650.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1650.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1666.4" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1666.4" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1666.4" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1666.4" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1666.4" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1666.4" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1666.4" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1682.8" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1682.8" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1682.8" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1682.8" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1682.8" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1682.8" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1682.8" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1699.2" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1699.2" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1699.2" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1699.2" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1699.2" y="197.6" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1699.2" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1699.2" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1715.6" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1715.6" y="148.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1715.6" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1715.6" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1715.6" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1715.6" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1715.6" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1732.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1732.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1732.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1732.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1732.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1732.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1732.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1748.4" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1748.4" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1748.4" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1748.4" y="181.2" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1748.4" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1748.4" y="214.0" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1748.4" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1764.8" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1764.8" y="230.4" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1781.2" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1781.2" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1781.2" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1781.2" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1781.2" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1781.2" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1781.2" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1797.6" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1797.6" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+<rect class="cell" x="1797.6" y="164.8" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1797.6" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1797.6" y="197.6" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1797.6" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1797.6" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1814.0" y="132.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1814.0" y="148.4" width="12.5" height="12.5" rx="3" opacity="0.1"/>
+<rect class="cell" x="1814.0" y="164.8" width="12.5" height="12.5" rx="3" opacity="1.0"/>
+<rect class="cell" x="1814.0" y="181.2" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1814.0" y="197.6" width="12.5" height="12.5" rx="3" opacity="0.5"/>
+<rect class="cell" x="1814.0" y="214.0" width="12.5" height="12.5" rx="3" opacity="0.28"/>
+<rect class="cell" x="1814.0" y="230.4" width="12.5" height="12.5" rx="3" opacity="0.75"/>
+</g>
+<line class="divider" x1="1404" y1="276" x2="1828" y2="276"/>
+<!-- stat placeholders -->
+<g transform="translate(1404,290)">
+<path style="fill:var(--star)" d="M8 .8l2.2 4.4 4.9.7-3.5 3.5.8 4.9L8 12l-4.4 2.3.8-4.9L.9 5.9l4.9-.7z"/>
+</g>
+<text class="t-stat" x="1428" y="303">Stars</text>
+<rect class="bar" x="1404" y="318" width="96" height="10" rx="5"/>
+<rect x="1404" y="318" width="44" height="10" rx="5" fill="url(#gNeon)"><animate attributeName="opacity" values=".35;.8;.35" dur="3.6s" repeatCount="indefinite"/></rect>
+
+<g transform="translate(1552,289)">
+<circle cx="3" cy="3" r="2.2" style="fill:var(--accent)"/><circle cx="13" cy="3" r="2.2" style="fill:var(--accent)"/><circle cx="8" cy="14" r="2.2" style="fill:var(--accent)"/>
+<path d="M3 5.5v1a4 4 0 0 0 4 4h2a4 4 0 0 0 4-4v-1 M8 10.5v1.5" fill="none" style="stroke:var(--accent)" stroke-width="1.8" stroke-linecap="round"/>
+</g>
+<text class="t-stat" x="1576" y="303">Forks</text>
+<rect class="bar" x="1552" y="318" width="96" height="10" rx="5"/>
+<rect x="1552" y="318" width="44" height="10" rx="5" fill="url(#gNeon)"><animate attributeName="opacity" values=".35;.8;.35" dur="3.6s" begin="0.7s" repeatCount="indefinite"/></rect>
+
+<g transform="translate(1700,288)">
+<path d="M8 3c-3.5 0-6.3 2.9-7.2 4.3a1.2 1.2 0 0 0 0 1.4C1.7 10.1 4.5 13 8 13s6.3-2.9 7.2-4.3a1.2 1.2 0 0 0 0-1.4C14.3 5.9 11.5 3 8 3z" fill="none" style="stroke:var(--eye)" stroke-width="1.7"/>
+<circle cx="8" cy="8" r="2.2" style="fill:var(--eye)"/>
+</g>
+<text class="t-stat" x="1724" y="303">Repo Views</text>
+<rect class="bar" x="1700" y="318" width="96" height="10" rx="5"/>
+<rect x="1700" y="318" width="44" height="10" rx="5" fill="url(#gNeon)"><animate attributeName="opacity" values=".35;.8;.35" dur="3.6s" begin="1.4s" repeatCount="indefinite"/></rect>
+
+<text class="t-note" x="1404" y="372">Reserved for live stats widgets</text>
+<text class="t-legend" x="1668" y="370" text-anchor="end">LESS</text>
+<rect class="cell" x="1678" y="361" width="12" height="12" rx="3" opacity=".12"/>
+<rect class="cell" x="1693" y="361" width="12" height="12" rx="3" opacity=".3"/>
+<rect class="cell" x="1708" y="361" width="12" height="12" rx="3" opacity=".55"/>
+<rect class="cell" x="1723" y="361" width="12" height="12" rx="3" opacity=".78"/>
+<rect class="cell" x="1738" y="361" width="12" height="12" rx="3" opacity="1"/>
+<text class="t-legend" x="1758" y="370">MORE</text>
+
+<!-- ============ bottom caption ============ -->
+<text class="t-cap" x="960" y="454" text-anchor="middle">OPEN SOURCE MAINTAINER&#160;&#160;|&#160;&#160;AUTO UPDATE FRAMEWORK DEVELOPER</text>
+</svg>
